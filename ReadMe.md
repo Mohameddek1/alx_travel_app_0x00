@@ -107,8 +107,3 @@ python manage.py runserver
 Mohameddeq Ahmed
 ALX Backend Student
 
----
-
-## License
-
-This project is part of the **ALX Software Engineering Program** and is licensed for educational use.
