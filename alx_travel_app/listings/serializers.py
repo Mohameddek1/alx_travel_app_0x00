@@ -1,7 +1,8 @@
 from rest_framework import serializers
 from .models import Listing, Booking, Review
 
-
+# serializers for the models in listings app
+# These serializers will be used to convert model instances to JSON format and vice versa
 class ListingSerializer(serializers.ModelSerializer):
     class Meta:
         model = Listing
